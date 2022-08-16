@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedss1997&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedss1997" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedss1997" alt="ahmedss1997" /></a> </p>
+<p align="center"> <img src="[https://github-profile-trophy.vercel.app/?username=ahmedss1997](https://myoctocat.com/assets/images/base-octocat.svg)" alt="ahmedss1997" /></a> </p>
 
 - 🌱 I’m currently learning **React.js**
 
