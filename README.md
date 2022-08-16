@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedss1997&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedss1997" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedss1997" alt="ahmedss1997" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedss1997" alt="ahmedss1997" /></a> </p>
 
 - 🌱 I’m currently learning **React.js**
 
@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedss1997&show_icons=true&locale=en" alt="ahmedss1997" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedss1997&" alt="ahmedss1997"  style="max-width: 100%;margin-bottom: 15px !important;" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedss1997&" alt="ahmedss1997" /></p>
