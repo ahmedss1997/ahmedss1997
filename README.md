@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedss1997&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedss1997" /> </p>
 
-<p align="center"> <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="" /> </p>
+<p align="center"> <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="" style="width: 200px; height: 200px;" /> </p>
 
 - 🌱 I’m currently learning **React.js**
 
