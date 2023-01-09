@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **asami6596@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C32_AjHrGplLHV8jSU0Wzdz3NYqcm0uC/view?usp=share_link](https://drive.google.com/file/d/1DUOtkbwSN1VXw5i1CDMIJVTvhXm1wJoc/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1C32_AjHrGplLHV8jSU0Wzdz3NYqcm0uC/view?usp=share_link
 
 - ⚡ Fun fact **I Love Chess**
 
